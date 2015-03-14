@@ -25,7 +25,3 @@ Per effettuare il test è necessario seguire i seguenti step:
     soa-plus-plus/Test/Servers/imageRegisterServer)
 3) avviare i client eseguendo lo script soa-plus-plus/Test/Client/clientsStart.sh
 
-Documentazione:
----------------
-La documentazione completa del progetto è disponibile all' indirizzo
-http://soa-plus-plus.googlecode.com/files/docs.tar.gz
